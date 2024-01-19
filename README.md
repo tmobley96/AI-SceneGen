@@ -6,10 +6,12 @@ As we stand on the brink of a new era in storytelling, this research delves into
 
 ## References
 https://black-mirror.fandom.com/wiki/Category:Characters
+
 https://huggingface.co/blog/peft
+
 https://8flix.com/
 
-##Socials
+## Socials
 Twitter / X - https://twitter.com/TMobley96
 
 My YouTube Channel - https://www.youtube.com/@PapaAI334
